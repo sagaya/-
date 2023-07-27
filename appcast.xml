@@ -8,7 +8,7 @@
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0.2023727</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://sagaya.github.io/-/ff-alpha.dmg" length="107072961" type="application/octet-stream" sparkle:edSignature="qymdfcHcSiQ/Iwc0PVu8IOYipBvd0c7c9Hq9SCp5NAeF/xzhsOGlM225fs+5OGY7CxdEPZ20Vy3QE428Lb11Cg=="/>
+            <enclosure url="https://github.com/sagaya/-/releases/download/1.0.0/ff-alpha.dmg" length="107072961" type="application/octet-stream" sparkle:edSignature="qymdfcHcSiQ/Iwc0PVu8IOYipBvd0c7c9Hq9SCp5NAeF/xzhsOGlM225fs+5OGY7CxdEPZ20Vy3QE428Lb11Cg=="/>
         </item>
     </channel>
 </rss>
