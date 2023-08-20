@@ -3,12 +3,12 @@
     <channel>
         <title>FocusFusion</title>
         <item>
-            <title>1.0.2023817</title>
-            <pubDate>Thu, 17 Aug 2023 17:42:56 +0100</pubDate>
-            <sparkle:version>1.0.2023817</sparkle:version>
-            <sparkle:shortVersionString>1.0.2023817</sparkle:shortVersionString>
+            <title>1.0.2023820</title>
+            <pubDate>Sun, 20 Aug 2023 23:01:38 +0100</pubDate>
+            <sparkle:version>1.0.2023820</sparkle:version>
+            <sparkle:shortVersionString>1.0.2023820</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://sagaya.github.io/-/ff-alpha.dmg" length="108308491" type="application/octet-stream" sparkle:edSignature="0jBTMqPbvo8NF9mTFF4xT11P0hZgUeLp6k0YLn2jEEcVwI7hE7qgcJwTHkL9WYO1sZDg+nfZOtnM4vs4XhzeCw=="/>
+            <enclosure url="https://sagaya.github.io/-/ff-alpha.dmg" length="108384956" type="application/octet-stream" sparkle:edSignature="T55T0zcX7ZrGgAqziTJXxL/CcX5SJN43arwQaQMYBemoGh2xmf9HVM7Vuzxqkw1ENeUvQ2UleB6fedi63uPyDw=="/>
         </item>
     </channel>
 </rss>
