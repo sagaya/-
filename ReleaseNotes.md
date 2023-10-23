@@ -1,3 +1,6 @@
+# 1.0.3.4 - Beta release 
+* Clean up onboarding
+
 # 1.0.3.3 - Beta release 
 * Bug fixes
 * Extensive adjustments and refinements have been made in readiness for launch.
