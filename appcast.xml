@@ -3,18 +3,17 @@
     <channel>
         <title>FocusFusion</title>
         <item>
-            <title>1.0.33</title>
-            <pubDate>Sat, 21 Oct 2023 23:15:20 +0000</pubDate>
+            <title>1.0.34</title>
+            <pubDate>Mon, 23 Oct 2023 00:02:57 +0000</pubDate>
             <link>https://github.com/sagaya/-/releases</link>
-            <sparkle:version>1.0.33</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:version>1.0.34</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<h1>Beta release</h1>
 <ul>
-<li>Bug fixes</li>
-<li>Extensive adjustments and refinements have been made in readiness for launch.</li>
+<li>Clean up onboarding</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/sagaya/-/releases/download/v1.0.3.3/FocusFusion.dmg" length="125472532" type="application/octet-stream" sparkle:edSignature="3gQlygTWxavyJ+wc2huxj3KJYLICv6C5NW54Uiv6bc0jImWd0XrbWokBMNc4IJW/NXWDGBD0/NBcWBJiB9OZDQ=="/>
+            <enclosure url="https://github.com/sagaya/-/releases/download/v1.0.3.4/FocusFusion.dmg" length="128036836" type="application/octet-stream" sparkle:edSignature="/hP92OkusNpk+CvlJg5M8xpst1KJx1VkYXoBng8sxCB37F3cEZX6BNKjZJzxhy3aoNuYoA2pPrS5BgwkF1kaBA=="/>
         </item>
     </channel>
 </rss>
