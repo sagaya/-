@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
  	   <description><![CDATA[<h1>Release 🚀</h1>
 		<ul>
-		<li>Some new animations and UI tweaks.</li>
+		<li>M2 MacBook bug fixes.</li>
 	  </ul>]]></description>
             <enclosure url="https://github.com/sagaya/-/releases/download/v1.0.2/FocusFusion.dmg" length="128071406" type="application/octet-stream" sparkle:edSignature="W/ol1cbEtoDOyp3hFesSCg48ZErmJdDfgkFH3PvvXmgoIIoIY6r6I6xdj+zC7t3L/dp1PTWA/eELOzo8CcqyCw=="/>
         </item>
