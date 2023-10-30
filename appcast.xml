@@ -4,7 +4,7 @@
         <title>FocusFusion</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 30 Oct 2023 11:16:22 +0000</pubDate>
+            <pubDate>Mon, 30 Oct 2023 11:35:31 +0000</pubDate>
             <link>https://github.com/sagaya/-/releases</link>
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -13,7 +13,7 @@
 <ul>
 <li>Some new animations and UI tweaks.</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/sagaya/-/releases/download/v1.0.0/FocusFusion.dmg" length="125894804" type="application/octet-stream" sparkle:edSignature="CFP/+i7z+4zGlGkVMK9ztoOucaV5dn3zPfln49Yvi1baaKbsq8DF8nGFHBSEuAO8mq5pVBHxeqm/HmZqFbXJBg=="/>
+            <enclosure url="https://github.com/sagaya/-/releases/download/v1.0.0/FocusFusion.dmg" length="125894074" type="application/octet-stream" sparkle:edSignature="W0cu3OjtFQvrdxDzMtx8cbR+JPN+rE8GZaNpyCJD1S9aaJK6sgukuSKuhBj1RMWHLoDqb7xndtn1ciZLpadZAQ=="/>
         </item>
     </channel>
 </rss>
